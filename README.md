@@ -7,7 +7,7 @@ Onyx plugin for Twitter.
 In your project file:
 
 ```clojure
-[org.onyxplatform/onyx-twitter "0.10.0.1"]
+[org.onyxplatform/onyx-twitter "0.11.0.0"]
 ```
 
 In your peer boot-up namespace:
